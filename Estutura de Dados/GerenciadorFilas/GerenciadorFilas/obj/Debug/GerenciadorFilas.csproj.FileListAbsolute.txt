@@ -1,0 +1,10 @@
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\bin\Debug\GerenciadorFilas.exe.config
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\bin\Debug\GerenciadorFilas.exe
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\bin\Debug\GerenciadorFilas.pdb
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.csproj.AssemblyReference.cache
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.Form1.resources
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.Properties.Resources.resources
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.csproj.GenerateResource.cache
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.csproj.CoreCompileInputs.cache
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.exe
+C:\Users\iara3\source\repos\GerenciadorFilas\GerenciadorFilas\obj\Debug\GerenciadorFilas.pdb
